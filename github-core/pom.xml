@@ -2,9 +2,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.github</groupId>
+        <groupId>net.intelie.maven</groupId>
         <artifactId>github-maven-plugins-parent</artifactId>
-        <version>0.12-SNAPSHOT</version>
+        <version>0.12</version>
     </parent>
 
     <artifactId>github-maven-core</artifactId>
